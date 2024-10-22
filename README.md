@@ -43,7 +43,8 @@ Me caracterizo por:
 ### Testing
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=juan88955&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=juan88955&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&hide=python)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=juan88955&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=juan88955&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
