@@ -1,6 +1,6 @@
 # 💫 About Me:
 ¡Hola! Soy Juan, apasionado por la informática, especialmente por el desarrollo front-end y back-end. 
-Actualmente terminando un bootcamp full stack en front-end.
+Actualmente terminando un bootcamp full stack.
 Me caracterizo por:
 - 📚 Facilidad para aprender
 - 🔄 Adaptabilidad ante los cambios
