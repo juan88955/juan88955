@@ -48,3 +48,5 @@ Me caracterizo por:
 ![](https://github-readme-stats.vercel.app/api?username=juan88955&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=juan88955&theme=tokyonight&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=juan88955&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide=python,java,ruby)
+
+[![](https://visitcount.itsvg.in/api?id=juanforero66&label=Profile%20Views&color=12&icon=1&pretty=true)](https://visitcount.itsvg.in)
