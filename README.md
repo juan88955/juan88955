@@ -1,6 +1,6 @@
 # 💫 About Me:
 ¡Hola! Soy Juan, apasionado por la informática, especialmente por el desarrollo front-end y back-end. 
-Actualmente terminando un bootcamp full stack.
+Actualmente terminando un Bootcamp full stack con MindHub y curso desarrollo web con ParqueSoft TI.
 Me caracterizo por:
 - 📚 Facilidad para aprender
 - 🔄 Adaptabilidad ante los cambios
